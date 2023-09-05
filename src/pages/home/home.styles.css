@@ -1,0 +1,15 @@
+.body-container {
+  background-color: #fcf0e0;
+}
+
+.span-number {
+  color: black;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 800;
+}
+
+.pagination {
+  margin-top: 15px;
+}

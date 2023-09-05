@@ -1,0 +1,9 @@
+.create-container {
+  justify-content: center;
+  background-image: url("/fondo.png");
+  background-size: cover;
+  align-items: center;
+  align-content: center;
+  width: 1300px;
+  min-height: 100vh;
+}

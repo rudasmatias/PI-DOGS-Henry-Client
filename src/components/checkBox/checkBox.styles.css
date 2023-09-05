@@ -1,0 +1,28 @@
+.checkBox-container {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-gap: 3px;
+}
+
+.checkBox-container div {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 25px;
+}
+
+.checkBox-container div:hover {
+  transform: scale(2);
+}
+
+.checkBox-container label {
+  font-size: 8px;
+}
+
+.checkBox-container input {
+  height: 15px;
+  width: 15px;
+}
